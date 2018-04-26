@@ -1,10 +1,10 @@
 # Site settings
-title: 
+title: Sean Learns to Code
 header-img: img/home-bg.png
 email: seanfebo@techie.com
 copyright_name: seanfebo87
 description: > # this means to ignore newlines until "baseurl:"
-  
+  My journey to become a web developer...
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  seanfebo87
