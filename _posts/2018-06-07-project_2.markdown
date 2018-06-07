@@ -1,0 +1,15 @@
+---
+layout: post
+title:      "Project #2"
+date:       2018-06-07 18:49:29 +0000
+permalink:  project_2
+---
+
+
+For our second project in the curriculum, we were required to create a CRUD App with Sinatra. I had planned to give a full week to the project, but a week turned to a few when life got in the way. Unexpected travel, getting sick, and family all playing a factor. When I was finally able to really sink my teeth into the work, I also realized that I didn't quite understand Sinatra as well as I thought. Maybe it was not being able to consistently code for the past few weeks, but I found myself having to re-learn different aspects, but it turned out for the best because I feel I have a stronger understanding of the material. 
+
+For my project , I decided to create an app where you can keep track of your golf games. Users can sign in to their account and be routed to their own homepage where they can view their games. They'll be able to add a new game, edit previous ones, and delete records if necessary. I made sure each user's page was private for their eyes only. If a user tries to view another's page, they will be rerouted to their own. 
+
+Because I spent most of my time working on getting the app to function correctly, I kept the layout of the page very simple. I did use a CSS framework called Bulma that I heard of and thought this would be a fun opportunity to try it out. For the most part I enjoyed using it a little more than Bootstrap, but I'm not an expert in either to really determine which one is "better". I'm sure they each have their pluses and minuses. 
+
+Overall, I enjoyed working on this project and although I finished the requirements, there is much I would like to still work on with this app, which I plan to do in the future. Mostly this will include how it looks and maybe some more features such as a public page where all users can see different courses and scores, as well as scraping a list of golf courses using Nokogiri. 
