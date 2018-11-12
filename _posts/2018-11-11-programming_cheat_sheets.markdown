@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Programming Cheat Sheets"
-date:       2018-11-12 00:44:59 +0000
+date:       2018-11-11 00:44:59 +0000
 permalink:  programming_cheat_sheets
 ---
 
