@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "CoffeeScript"
-date:       2018-11-19 00:17:56 +0000
+date:       2018-11-18 00:17:56 +0000
 permalink:  coffeescript
 ---
 
@@ -45,7 +45,7 @@ cubes = (math.cube num for num in list)
 
 This becomes the javascript we know: 
  
- ``
+ ```
 // Assignment:
 var cubes, list, math, num, number, opposite, race, square;
 
@@ -95,7 +95,7 @@ cubes = (function() {
   }
   return results;
 })();
-``
+```
 
 Learning CoffeScript is almost like learning a brand new language in some ways, so I'm not convinced of switiching completely from the vanilla JavaScript I already know, however if you hate using semi-colons and curly braces, then this might be the way to go. 
 
