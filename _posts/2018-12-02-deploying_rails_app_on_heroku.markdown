@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Deploying Rails App On Heroku"
-date:       2018-12-03 01:42:30 +0000
+date:       2018-12-02 01:42:30 +0000
 permalink:  deploying_rails_app_on_heroku
 ---
 
