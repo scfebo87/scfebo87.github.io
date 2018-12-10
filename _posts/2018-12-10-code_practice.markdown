@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Code Practice"
-date:       2018-12-10 06:35:02 +0000
+date:       2018-12-09 06:35:02 +0000
 permalink:  code_practice
 ---
 
