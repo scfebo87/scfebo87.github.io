@@ -1,15 +1,14 @@
 # Site settings
-title: Sean Learns to Code
+author: Sean Febo
+title: Sean's Thoughts On Code
 header-img: img/home-bg.png
 email: seanfebo@techie.com
-copyright_name: seanfebo87
+copyright_name: Sean Febo
 description: > # this means to ignore newlines until "baseurl:"
-  My journey to become a web developer...
+  some programming this and that...
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  seanfebo87
-learn_profile: seanfebo87
-email_username: seanfebo@techie.com
 
 # Build settings
 markdown: kramdown
