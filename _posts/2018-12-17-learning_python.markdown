@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Learning Python"
-date:       2018-12-17 05:28:02 +0000
+date:       2018-12-16 05:28:02 +0000
 permalink:  learning_python
 ---
 
