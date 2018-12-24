@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Job Applying Tip "
-date:       2018-12-24 04:37:10 +0000
+date:       2018-12-23 04:37:10 +0000
 permalink:  job_applying_tip
 ---
 
